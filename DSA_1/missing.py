@@ -11,3 +11,7 @@ def find_missing_number(arr):
 # Test case 1: Missing number in the middle
 test_case_1 = [1, 2, 4, 5]
 print("Test case 1 - Missing number:", find_missing_number(test_case_1)) 
+
+
+
+

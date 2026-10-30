@@ -23,7 +23,8 @@ def non_repeat(str):
             if str.count(char) == 1:
                 return char
             elif str.count(char) > 1:
-                continue   
+                continue  
+          
 
 
 while True:
