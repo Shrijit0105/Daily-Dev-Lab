@@ -1,114 +1,116 @@
 ⚡ Daily Dev Lab
 
-"Think → Code → Test → Improve → Repeat"
+<p align="center">
+  <b>Consistency • Problem Solving • Learning • Building</b>
+</p>A personal coding journey dedicated to improving programming skills through daily practice, problem-solving, and hands-on development.
 
-Welcome to my Daily Dev Lab, a hands-on coding workspace where I strengthen my programming fundamentals, develop problem-solving skills, and grow into a better software developer through consistent practice.
+This repository documents my progress in Python, Data Structures and Algorithms (DSA), and software development.
 
-This repository documents my journey from writing basic programs to understanding algorithms, data structures, software design, and eventually AI/ML implementations.
+🎯 Objectives
 
-I believe in learning by doing, making mistakes, understanding why they happen, and improving one solution at a time.
+- Build strong Python programming fundamentals.
+- Develop logical and analytical thinking.
+- Strengthen Data Structures and Algorithms.
+- Practise writing clean, readable, and efficient code.
+- Maintain consistency through daily coding challenges.
+- Build a portfolio of practical programming exercises.
 
----
+📚 Learning Tracks
 
-🎯 Mission
+Track| Focus
+Python Basics| Functions, loops, strings, lists, dictionaries
+DSA| Arrays, strings, searching, sorting, hashing
+Problem Solving| Logical thinking and algorithm design
+Mini Projects| Practical Python applications
 
-- 🐍 Strengthen Python programming fundamentals.
-- 🧠 Develop independent logical thinking and problem-solving skills.
-- ⚙️ Learn Data Structures and Algorithms (DSA).
-- 📊 Understand time and space complexity.
-- 🧪 Practice testing, debugging, and code optimization.
-- 🤖 Build programming foundations for AI/ML.
-- 📈 Maintain a consistent, meaningful GitHub contribution streak.
+📅 Daily Coding Streak
 
-🗂️ Repository Structure
+My daily coding progress is recorded below.
+
+Day| Python Challenge| DSA Challenge| Status
+Day 01| Missing Numbers| Array Fundamentals| ⏳
+Day 02| Second Largest Element| Array Traversal| ⏳
+Day 03| File Organizer| File Handling| ⏳
+Day 04| Student Grade Analyzer| Move Zeros| ⏳
+Day 05| Password Strength Checker| First Non-Repeating Element| ⏳
+
+Status Legend:
+
+- ✅ Completed
+- 🔄 In Progress
+- ⏳ Pending
+
+Update the status only after completing and testing the corresponding challenge.
+
+📂 Repository Structure
 
 Daily-Dev-Lab/
 │
-├── Python_1/
-│   ├── basics/
-│   ├── strings/
-│   ├── lists/
-│   └── dictionaries/
+├── Python/
+│   ├── Basics/
+│   ├── Strings/
+│   ├── Lists/
+│   ├── Dictionaries/
+│   └── Mini_Projects/
 │
 ├── DSA/
-│   ├── searching/
-│   ├── sorting/
-│   ├── two_pointers/
-│   ├── hashing/
-│   └── stacks/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── Searching/
+│   ├── Sorting/
+│   ├── Hashing/
+│   └── Two_Pointers/
 │
-├── Projects/
-│   ├── CLI_Quiz/
-│   └── Expense_Tracker/
-│
-├── ML_Math/
-│   ├── statistics/
-│   └── evaluation_metrics/
-│
-├── tests/
 └── README.md
 
-The structure will evolve as I learn and add new exercises. Existing files may remain in their current locations until they can be reorganized safely.
+📈 Progress Tracker
 
-🧩 Learning Tracks
+Skill| Progress
+Python Fundamentals| Learning
+Functions & Modular Programming| Learning
+File Handling| Learning
+Arrays| Learning
+Dictionaries & Hashing| Learning
+Two Pointer Technique| Learning
+Algorithm Complexity| Learning
 
-Track| Focus
-Python| Variables, loops, functions, strings, collections
-Problem Solving| Logical reasoning, edge cases, algorithm design
-DSA| Searching, sorting, hashing, stacks, two pointers
-Optimization| Time complexity, space complexity, alternative approaches
-Mini Projects| Small, practical command-line applications
-AI/ML Foundations| Statistics, data processing, regression metrics
+🧠 My Coding Rules
 
-🧠 Problem-Solving Workflow
+1. Try solving problems independently before looking at solutions.
+2. Understand the logic before writing code.
+3. Test multiple inputs and edge cases.
+4. Analyse time and space complexity whenever applicable.
+5. Write meaningful commit messages.
+6. Prefer consistency over quantity.
+7. Never commit meaningless code just to maintain a streak.
 
-Every problem is an opportunity to understand the reasoning behind the code.
+🛠️ Technologies
 
-1. Understand the problem and define expected outputs.
-2. Plan the algorithm using plain English or pseudocode.
-3. Implement the solution in Python.
-4. Test normal inputs, edge cases, and unexpected inputs.
-5. Analyze time and space complexity.
-6. Improve the solution when a better approach exists.
-7. Document the reasoning and lessons learned.
+- Python
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
-Whenever possible, I compare a straightforward solution with an optimized one to understand the trade-offs.
+📌 Daily Workflow
 
-📅 Practice Log
+1. Pick one Python fundamentals challenge.
+2. Pick one DSA challenge.
+3. Implement and test both solutions.
+4. Analyse the logic and complexity.
+5. Push the completed work to GitHub.
+6. Update this README.
 
-Date| Problem / Activity| Concepts
-2026-10-15| First non-repeating character| Strings, loops, "count()"
-Ongoing| Duplicate detection| Lists, sets, nested loops
-Ongoing| Linear search| Iteration, functions, complexity
-Ongoing| Two Sum| Arrays, hashing, two pointers
+🚀 Long-Term Vision
 
-This log is a manually maintained snapshot, not an automated activity feed. I will update it as exercises are completed and reviewed.
+This repository is a record of my growth as a programmer and problem solver.
 
-🛠️ Tech Stack
+My objective is not simply to solve more problems, but to become capable of designing, understanding, debugging, and building software independently.
 
-- Language: Python
-- Version Control: Git and GitHub
-- Editor: VS Code
-- Current Focus: Python, DSA, debugging, and algorithmic thinking
-- Future Direction: Software development and AI/ML
-
-📌 Current Principles
-
-- Understand the solution instead of blindly copying it.
-- Prefer readable code before clever code.
-- Test assumptions instead of trusting them.
-- Learn from failed attempts and debugging sessions.
-- Optimize based on reasoning, not guesswork.
-- Value consistency over artificial commit counts.
-
-🚀 Long-Term Goal
-
-Transform this repository into a practical record of my development as a programmer: from foundational exercises to optimized algorithms, useful tools, and projects that demonstrate independent thinking.
-
-Every commit should represent progress, a lesson, or an improvement.
-
-One problem at a time. One concept at a time. Better code every day.
+Dream Big. Stay Consistent. Keep Building.
 
 ---
 
-Built through curiosity, practice, debugging, and persistence.
+<p align="center">
+  <b>One Day at a Time. One Problem at a Time. ⚡</b>
+</p>
